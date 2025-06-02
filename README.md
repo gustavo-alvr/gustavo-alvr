@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. 
+  - 💬 Backend developer in training, with knowledge of Python (currently) and Java (future focus). Experienced in frontend technologies (JavaScript, HTML, CSS) and databases.
 
-  - 
-  - 
+  - ⚡ In my free time, I enjoy gaming, watching anime and series, Browse YouTube videos, reading books and manga, and exploring new restaurants.
+  
 </details>
 
 <!-- Links -->
