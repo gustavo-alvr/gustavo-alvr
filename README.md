@@ -51,9 +51,8 @@ Here are some ideas to get you started:
 -->
 <!-- GIF -->
 
-<p align="left>
   <img src="images/gon.gif" alt="gon GIF"/>
-</p>
+
 
 
 ## 🔥 Skills
