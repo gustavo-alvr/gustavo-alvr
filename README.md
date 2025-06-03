@@ -51,31 +51,33 @@ Here are some ideas to get you started:
 -->
 <!-- GIF -->
 
+<p align="left>
+  <img src="images/gon.gif" alt="gon GIF"/>
+</p>
 
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/><img width="12" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/><img width="12" />
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/><img width="12" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/><img width="12" />
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/><img width="12" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/><img width="12" />
     
 
   </div>
   
-  <!-- Skills: Tools & Frameworks -->
+  <!-- Skills: Tools -->
   <div style="flex-basis: 48%;">
     <h3>Tools </h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /><img width="12" />   
+      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"/><img width="12" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /><img width="12" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /><img width="12" />
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  /><img width="12" />
   </div>
   
+
